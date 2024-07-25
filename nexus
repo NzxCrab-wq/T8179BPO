@@ -1,0 +1,12 @@
+--[[ WORKING IN ALL EXECUTORS, I'M NOT RESPONSIBLE FOR ANYTHING, DAPLAYZX YOUTUBE
+]]--
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+        Title = "✅ Loading Script!";
+        Text = "🕐 ESTIMATED TIME: 5.87 SECONDS!";
+        Icon = "rbxthumb://type=Asset&id=15992568695&w=150&h=150"})
+    Duration = 101;
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NzxCrab-wq/OrionLibrary/main/NzxCrab"))()
